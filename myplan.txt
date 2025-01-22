@@ -1,5 +1,9 @@
-2:31 PM 1/21/2025
+3:42 PM 1/22/2025
+==> pls control your self.
+==> over smart logo se distance bana kar rakho.
+==> apane aap par or apane baato par dhayan dena ki need hai. 
 
+<<<<<<< HEAD
 ==> Time is money;
 
 11:30 AM 1/22/2025
@@ -9,3 +13,5 @@
 ==> ignore is the best solution.
 ==> 
 
+=======
+>>>>>>> devA
